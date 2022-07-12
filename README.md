@@ -1,21 +1,17 @@
-# JupyterLite Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+# A personal Jupyter Lite server
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+Add notebooks and assets in `content/`
 
-## ✨ Try it in your browser ✨
+Build application: `jupyter lite build --output-dir ./_output`
 
-➡️ **https://jupyterlite.github.io/demo**
+Download extra wheels for the notebooks: `pip download -d _output/build/pypi -r requirements-extra.txt`
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+Generate packages config: `cd _output/build/pypi && jupyter lite pip index --generate-config`
 
-## Requirements
 
-JupyterLite is being tested against modern web browsers:
+After adding new notebooks, run build again.
 
-- Firefox 90+
-- Chromium 89+
 
 ## Deploy your JupyterLite website on GitHub Pages
 
