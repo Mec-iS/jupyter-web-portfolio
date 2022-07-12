@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-12T13:50:36.956717Z",
+      "format": null,
+      "last_modified": "2022-07-12T13:48:45.730887Z",
+      "mimetype": null,
+      "name": "javascript.ipynb",
+      "path": "others/javascript.ipynb",
+      "size": 2179,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T13:50:36.960717Z",
+      "format": null,
+      "last_modified": "2022-07-12T13:48:45.730887Z",
+      "mimetype": null,
+      "name": "p5.ipynb",
+      "path": "others/p5.ipynb",
+      "size": 3717,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T13:50:36.960717Z",
+      "format": null,
+      "last_modified": "2022-07-12T13:48:45.730887Z",
+      "mimetype": null,
+      "name": "python.ipynb",
+      "path": "others/python.ipynb",
+      "size": 12962,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-12T13:50:36.960717Z",
+  "format": "json",
+  "last_modified": "2022-07-12T13:50:36.960717Z",
+  "mimetype": null,
+  "name": "others",
+  "path": "others",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -57,6 +57,13 @@
       {
         "extension": "./extension",
         "liteExtension": false,
+        "load": "static/remoteEntry.b9ede0b76564b4f7bc06.js",
+        "name": "@pyviz/jupyterlab_pyviz",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
         "load": "static/remoteEntry.bf6b3192a558615425cd.js",
         "name": "@telamonian/theme-darcula"
       },
